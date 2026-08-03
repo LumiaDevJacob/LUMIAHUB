@@ -1,0 +1,4 @@
+-- lumia hub
+
+script_key = "%KEY%"
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/fb215e06af42edee2aadc20fb691957bba4989827a223a885ffc300c703331d2.lua"))()
